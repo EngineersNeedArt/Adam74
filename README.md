@@ -165,6 +165,8 @@ If hardware scrolling is not possible, perhaps there are other optimizations tha
 
 Other features like ANSI colors would be cool as well. I'm afraid I don't know enough about terminal protocols to implement something like this correctly.
 
+More detail on creating the Adam74 [on my blog](https://www.engineersneedart.com/adam74/adam74.html).
+
 > I have a half dozen or so Adam74s that I built for the photos. If you are interested in one I would have to ask $140 (plus shipping). These were surprisingly expensive with the minimum orders and shipping costs for laser-cutting, PCB-fabbing, etc.
 
 > If you are interested in one of the completed Adam74s email me. I am also considering a "thin kit" of sorts (PCB + acrylic stand) to get the cost down. Let me know if that is interesting as well. Below is my *hide-my* email address:
